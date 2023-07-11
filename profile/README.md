@@ -1,5 +1,5 @@
 ## Hi there! 👋
-# Welcome to Pickrider official Github Repository.
+# Welcome to Pickriders Official Github Repository.
 
 <!--
 
